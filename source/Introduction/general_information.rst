@@ -1,18 +1,14 @@
 =====================
 General Information
 =====================
-TrofMIS is a surveilance system that is based on monitoring the Tropical Montane Forest in the IGAD region. The Tropical montane monitoring is part
-of the global goal in reducing carbon emission and consequently exponentially reducing climate change. 
-The tropical forest monitoring is keen on applying the REDD+ monitoring guidelines outlined by UNCCD on tropical forest and carbon emission monitoring
-to yield these products.
+TrofMIS is a surveillance system that is based on monitoring the Tropical Montane Forest in the IGAD region. The Tropical montane monitoring is part of the global goal for reducing carbon emissions from the forestry sector and consequently reducing climate change. The TrofMIS is keen on applying the REDD+ monitoring guidelines outlined by UNFCCC/IPCC for tropical forests to yield these products.
 
 	- Forest cover status (tree cover density mask for a reference year 2015) maps
 	- Forest cover change (annual change 2016-2020) maps
 	- Forest canopy disturbance alert (using both optical and active sensors)
 	- TrofMIS generation/derivation of RADAR Forest Cover Loss Alerts, Tree Cover Density, Forest Canopy Disturbance Monitoring products on selected tropical forests for REDD+ reporting once new data is availableTraining materials (user manual) on the developments of the data acquisition, analysis and generation of final products.
 	
-The goal is to anable the various key players in REDD+ reporting while account for the amount of carbon stock emmitted as well as retained.
-
+The goal is to support the various key players in REDD+ implementation at local and national levels identify spatial and temporal patterns of deforestation and their effects of Carbon fluxes, which supports quantification of effects of drivers of deforestation and forest degradation, and activities of enhancing forest carbon stocks.
 
 
 Get in touch with the team
